@@ -10,6 +10,6 @@ Weather App Features
 
 ![weather-app-SS-3](https://github.com/oerzn/Weather-app-JS/assets/103498656/a685cda9-3ab1-4edd-988d-6f8f689d3f82)
 
-The API provider by http://www.OpenWeatherMap.org
-Create your personal account at http://www.OpenWeatherMap.org, and get your API key in the My API section.
+**The API provider by http://www.OpenWeatherMap.org**  
+- Create your personal account at http://www.OpenWeatherMap.org, and get your API key in the My API section.
 
